@@ -11,11 +11,11 @@ MERN application that creates a mini-social network for users to be able to log 
   * [Contribution](#contribution)
  
  ## Technologies
-Node.js, Apollo, React.js, Mongoose, MongoDB, Express, Heroku; MongoDB/Node.js/Express.js back end and a React front end
+  Node.js, Apollo, React.js, Mongoose, MongoDB, Express, Heroku; MongoDB/Node.js/Express.js back end and a React front end
 
 ## Installation
-  npm init
-  npm install  express mysql2  sequelize dotenv
+    npm init
+    npm install  express mysql2  sequelize dotenv
 
 ## Usage
     * To access SQL :
