@@ -18,20 +18,20 @@ Node.js, Apollo, React.js, Mongoose, MongoDB, Express, Heroku; MongoDB/Node.js/E
   npm install  express mysql2  sequelize dotenv
 
 ## Usage
-
-  * To access SQL :
+    * To access SQL :
           mysql -u root -p
-  * Enter passwrd when prompted
+    * Enter passwrd when prompted
           source db/schema.sql
-  * To Seed database:
+    * To Seed database:
           npm run seed
-  * Start the app
+   * Start the app
           node server.js
 
 ## Testing
-  CRUD operations can be testted using following applications:
+    CRUD operations can be testted using following applications:
       Insomnia core / Postman  or your browser 
       link : http://localhost:3000/api/<routes>
+      
 ## Contribution
 Created with ❤️ by Deepa Krishnan Credits :MVC - Controller module
 
